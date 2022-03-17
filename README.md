@@ -1,5 +1,5 @@
 ## Hi there, 👋
-My name is Ren Odaira.
+My name is Ren Odaira.  
 I'm a SRE engineer at [Cloud Ace](https://cloud-ace.jp/).
 
 ## Top Languages
