@@ -1,4 +1,5 @@
 ## Hi there, 👋
+My name is Ren Odaira.
 I'm a SRE engineer at [Cloud Ace](https://cloud-ace.jp/).
 
 ## Top Languages
@@ -11,7 +12,7 @@ I'm a SRE engineer at [Cloud Ace](https://cloud-ace.jp/).
 * Google Cloud
     * Professional Cloud Architect 
     * Professional Data Engineer
-* Language
+* English
     * TOEIC 825
 <!--
 **odaren/odaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
