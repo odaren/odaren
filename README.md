@@ -1,10 +1,10 @@
-### Hi there, I'm odaren. 👋
+## Hi there, I'm odaren. 👋
+I am an SRE engineer at [Cloud Ace](https://cloud-ace.jp/).
 
-
-### Top Languages
+## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odaren)](https://github.com/odaren/github-readme-stats)  
 
-### GitHub Stats
+## GitHub Stats
 [![odaren's GitHub stats](https://github-readme-stats.vercel.app/api?username=odaren&show_icons=true)](https://github.com/odaren/github-readme-stats)
 
 <!--
