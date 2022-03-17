@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm odaren. 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odaren&layout=compact)](https://github.com/odaren/github-readme-stats)
-
 [![odaren's GitHub stats](https://github-readme-stats.vercel.app/api?username=odaren&theme=vue-dark&show_icons=true)](https://github.com/odaren/github-readme-stats)
 
 <!--
