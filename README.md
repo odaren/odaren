@@ -14,6 +14,10 @@ I'm a SRE engineer at [Cloud Ace](https://cloud-ace.jp/).
     * Professional Data Engineer
 * English
     * TOEIC 825
+
+## Interests
+* Data engineering
+* Machine Learning
 <!--
 **odaren/odaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
