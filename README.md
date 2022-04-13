@@ -14,6 +14,8 @@ I'm a SRE engineer at [Cloud Ace](https://cloud-ace.jp/).
     * Professional Data Engineer
 * English
     * TOEIC 825
+* Chinese
+    * HSK 5th grade  
 
 ## Interests
 * Data Engineering
