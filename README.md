@@ -11,6 +11,8 @@ I'm a SRE engineer at [Cloud Ace](https://cloud-ace.jp/).
 ## Certifications
 * Google Cloud
     * Professional Cloud Architect 
+    * Professional Security Engineer
+    * Professional Cloud Developer
     * Professional Data Engineer
 * English
     * TOEIC 825
