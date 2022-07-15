@@ -14,6 +14,8 @@ I'm a SRE engineer at [Cloud Ace](https://cloud-ace.jp/).
     * Professional Security Engineer
     * Professional Cloud Developer
     * Professional Data Engineer
+    * Associate Cloud Engineer
+    * Cloud Digital Leader
 * English
     * TOEIC 825
 * Chinese
