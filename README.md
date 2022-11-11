@@ -1,6 +1,6 @@
 ## Hi there, 👋
 My name is Ren Odaira.  
-I'm a SRE engineer at [Cloud Ace](https://cloud-ace.jp/).
+I'm a MLOps / Data Engineer at [Cloud Ace](https://cloud-ace.jp/).
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odaren)](https://github.com/odaren/github-readme-stats)  
