@@ -10,6 +10,7 @@ I'm a MLOps / Data Engineer at [Cloud Ace](https://cloud-ace.jp/).
 
 ## Certifications
 * Google Cloud
+    * Professional Machine Learning Engineer
     * Professional Cloud Database Engineer
     * Professional Data Engineer
     * Professional Cloud Architect 
